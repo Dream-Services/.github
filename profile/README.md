@@ -16,6 +16,6 @@ Thank you for choosing **Dream Services**! We hope you enjoy our work and if you
 
 ### 📫 Contact
 - **Discord**: [Dream Services Discord](https://discord.gg/zppUXj4JRm)
-- **Tebex Store**: [Visit Tebex Store](https://dream-services.tebex.io)
+- **Tebex Store**: [Visit Store](https://shop.dream-services.eu)
 - **Documentation**: [Visit Documentation](https://docs.dream-services.eu)
 
